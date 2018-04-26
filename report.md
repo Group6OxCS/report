@@ -1,3 +1,8 @@
+---
+documentclass: article
+geometry: margin=1.25in
+...
+
 Group 6 Practical Report
 ========================
 
