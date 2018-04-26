@@ -19,7 +19,7 @@ I was the only person to work on the server and the script runtime system. The m
  - Per-script colors (24th April)
  - Improved graphs (tree, generation line, 25th April)
  - JavaScript API (25th April)
- - Ghost car intgration (25th April)
+ - Ghost car integration (25th April)
  - Scatter graph (26th April)
 
 #### Game related
