@@ -37,6 +37,7 @@ I worked exclusively on the game. The features I have implemented include:
  
 * __Other small things__:
     * Added first skybox
+    * Worked on control schemes and input
     * Repurposed the fuel meter to show NO_2 level instead
     * Customised UI textures to label the various meters (N0_2 and m/s)
     * Found the sound files for nitro and wind (which may or may not end up in the final release)
