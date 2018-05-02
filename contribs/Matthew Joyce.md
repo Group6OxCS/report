@@ -24,7 +24,7 @@ I was the only person to work on the server and the script runtime system. The m
 
 #### Game related
 
-Along with quality control and code review, I implemented:
+Along with quality control, bug fixes and code review, I implemented:
 
  - Interface system, allowing for communication with both the scripting runtime and human testers with the same code (23rd Feb)
  - Waypoint-based Navigation (with Vlad, 26th March)
@@ -36,10 +36,13 @@ Along with quality control and code review, I implemented:
  - Advanced Obstacle Detection (11th April)
  - Sensor Widget (12th April)
  - Desert Infinity and Water Park tracks (12th April)
+ - Nocturnal Slalom track (29th April)
+ - Script commands widget (30th April)
+ - Nitro sounds and flames (1st May)
 
 #### AIs
 
 I also wrote the following AIs:
 
- - DrunkenMaster, DrunkenMaster2, DrunkenMaster3, DrunkenMaster3a (a series of AIs designed to drive similar to humans)
+ - DrunkenMaster, DrunkenMaster2, DrunkenMaster3, DrunkenMaster3a, Pathfinder, Pathfinder 2 (a series of AIs designed to drive similar to humans)
  - Center Keeper, Center Keeper 2, Center Keeper 3 (a series of simpler AIs)
