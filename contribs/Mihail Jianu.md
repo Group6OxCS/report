@@ -1,5 +1,5 @@
  I have implemented the following game features:
-  - A prototype for the game. It was made in Unity3D aswell, and its purpose was for testing only.
+  - A prototype for the game. It was made in Unity3D as well, and its purpose was for testing only.
   
     - This instance of the game included only one level, with one finishline, and it was able to detect the time it would take the player to reach it.
     
