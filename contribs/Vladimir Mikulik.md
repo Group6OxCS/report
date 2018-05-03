@@ -20,6 +20,8 @@ I worked exclusively on the game. The features I have implemented include:
 * __Tracks:__
     * Forest Run (March 24)
         * The first fully-featured track with complex terrain, trees and grass.
+    * Grand Loop (May 1)
+        * A simple track optimised for the presentation.
     * Overhauled the terrain of level1 (April 9)
     
 * __Ghost car__ (April 25)
@@ -31,6 +33,9 @@ I worked exclusively on the game. The features I have implemented include:
     * I built the original system, which Matthew overhauled to its current state.
     
 * __Nitro__ (April 7)
+    * Keeps track of fuel that slowly regenerates
+    * When used, applies a flat force propelling car forwards
+    * I also made the sound that plays when it is used, but not the system that plays the sound
 
 * __Stuck detection__ (April 9)
     * Detects if the car is immobile for a certain period and replaces it at the last visited waypoint.
@@ -40,6 +45,5 @@ I worked exclusively on the game. The features I have implemented include:
     * Worked on control schemes and input
     * Repurposed the fuel meter to show NO_2 level instead
     * Customised UI textures to label the various meters (N0_2 and m/s)
-    * Found the sound files for nitro and wind (which may or may not end up in the final release)
     * And, of course, bug fixes
     
